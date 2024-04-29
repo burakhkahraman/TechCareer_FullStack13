@@ -26,17 +26,5 @@ public class _4_Math {
         int number3=random.nextInt(4)+1;
         System.out.println(number3);
 
-        // String
-        // Method
-        // Conditional
-        // Date
-        // Loop
-        // Exception Handling
-        // Array
-        // Collection
-        // OOP
-        // Inheritance
-        // Abstract
-        // interface
     }
 }
