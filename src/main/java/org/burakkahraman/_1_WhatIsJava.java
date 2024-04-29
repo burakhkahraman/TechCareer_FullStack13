@@ -20,6 +20,14 @@ public class _1_WhatIsJava {
         boolean b3= 3>1;
         System.out.println(b3);
 
-        //primitive type- Wrapper
+        // primitive type - Wrapper type
+        int primitive=44;
+        // veremezsiniz=> primitive=null;
+        Integer objectInt=44;
+        objectInt=null;
+        // zero : Dünyaya gelmiş ancak bir etki güçüne sahip değildir.
+        // null : dünyaya gelmemiş
+        // create: Dünyaya gelmiş
+
     }
 }
