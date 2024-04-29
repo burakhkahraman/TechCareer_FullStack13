@@ -22,5 +22,7 @@ public class _3_OperatorsAndScanner {
         System.out.println("\nLütfen isminizi giriniz: ");
         String name= klavye.nextLine();
         System.out.println("Adınız: "+ name);
+
+
     }
 }
