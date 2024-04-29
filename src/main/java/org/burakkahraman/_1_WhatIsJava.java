@@ -25,8 +25,8 @@ public class _1_WhatIsJava {
         // veremezsiniz=> primitive=null;
         Integer objectInt=44;
         objectInt=null;
-        // zero : Dünyaya gelmiş ancak bir etki güçüne sahip değildir.
-        // null : dünyaya gelmemiş
+        // zero : Dünyaya gelmiş ancak bir etki gücüne sahip değildir.
+        // null : Dünyaya gelmemiş
         // create: Dünyaya gelmiş
 
     }
